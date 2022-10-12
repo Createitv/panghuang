@@ -5,15 +5,10 @@ export default defineUserConfig({
     base: '/',
 
     locales: {
-        '/'   : {
-            lang       : 'en-US',
-            title      : 'Wind brother',
-            description: 'A Wind brother blog for EveryOne',
-        },
-        '/zh/': {
+        '/': {
             lang       : 'zh-CN',
-            title      : '风少',
-            description: '风少的 blog',
+            title      : '彷丶徨丶',
+            description: '彷丶徨丶自留地',
         },
     },
 
