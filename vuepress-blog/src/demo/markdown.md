@@ -4,6 +4,7 @@ icon: markdown
 order: 2
 category:
   - Guide
+  - Python
 tag:
   - Markdown
 ---
